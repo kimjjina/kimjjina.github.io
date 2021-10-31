@@ -17,11 +17,11 @@ remote_theme : mmistakes/minimal-mistakes
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "This is whiteBox !"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Kim Jina"
+description              : "까만건 글이야"
 url                      : "https://kimjjina.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -52,7 +52,7 @@ comments:
     reactions_enabled    : # '1' for enabled (default), '0' for disabled
     theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
   staticman:
-    branch               : # "master"
+    branch               : "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                :
@@ -103,10 +103,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "jINA"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "안녕하세요 반갑습니다"
+  location         : "Cheong Ju"
   email            :
   links:
     - label: "Email"
